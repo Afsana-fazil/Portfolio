@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/Caramel.png",
+        "title": "Caramel Website",
+        "category": "others",
+        "description": "A clone website of caramel using HTML and CSS.",
+        "technologies": ["HTML", "CSS"]
+    },
+    {
+        "id": 2,
+        "image": "/assets/makemytrip.png",
+        "title": "MyTrip Website",
+        "category": "others",
+        "description": "A clone website of MyTrip using HTML and CSS.",
+        "technologies": ["HTML", "CSS"]
+    },
+    {
+        "id": 3,
+        "image": "/assets/byway.jpg",
+        "title": "Byway Website",
+        "category": "others",
+        "description": "A learning website built using HTML and CSS.",
+        "technologies": ["HTML", "CSS"],
+        "link": "https://afsana-fazil.github.io/Byway-project/"
+    },
+    {
+        "id": 4,
+        "image": "/assets/euphoria.jpg",
+        "title": "Euphoria Website",
+        "category": "ecommerce",
+        "description": "A basic ecommerce website using HTML and CSS.",
+        "technologies": ["HTML", "CSS"],
+        "link": "https://afsana-fazil.github.io/Euphoria_project/"
+    },
+    {
+        "id": 5,
+        "image": "/assets/grogin.jpg",
+        "title": "Grogin Website",
+        "category": "ecommerce",
+        "description": "An ecommerce website built using HTML, CSS and JavaScript.",
+        "technologies": ["Html", "CSS", "JavaScript"],
+        "link": "https://afsana-fazil.github.io/Grogin-Project/"
+    },
+    {
+        "id": 6,
+        "image": "/assets/exclusive.jpg",
+        "title": "Exclusive Website",
+        "category": "ecommerce",
+        "description": "An ecommerce website built using React.",
+        "technologies": ["React", "JavaScript"],
+        "link": "https://byway-django-2j2h.vercel.app/"
+    },
+    {
+        "id": 7,
+        "image": "/assets/byway.jpg",
+        "title": "Byway Django Website",
+        "category": "others",
+        "description": "An learning website built using HTML, CSS, JavaScript and Django-Template.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Django"]
+    }
+  ]
+  
