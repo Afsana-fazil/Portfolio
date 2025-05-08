@@ -74,8 +74,8 @@ export default function Contact() {
             <h2 className="relative inline-block text-3xl md:text-4xl font-bold after:content-[''] after:absolute after:left-1/2 after:translate-x-[-50%] after:bottom-[-10px] after:w-[70%] after:h-[5px] after:bg-purple-600">
                 Get In Touch
             </h2>
-            <p className="mt-8 text-lg w-4/5 lg:w-3/5 mx-auto">I'm always open to exploring new projects, creative ideas, or meaningful collaborations. Feel free to reach out via the form or 
-                connect with me directly—let’s bring your vision to life.
+            <p className="mt-8 text-lg w-4/5 lg:w-3/5 mx-auto">I&apos;m always open to exploring new projects, creative ideas, or meaningful collaborations. Feel free to reach out via the form or 
+                connect with me directly—let&apos;s bring your vision to life.
             </p>
         </div>
 

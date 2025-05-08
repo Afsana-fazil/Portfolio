@@ -36,7 +36,7 @@ export default function Projects() {
     return () => {
       elements.forEach((el) => observer.unobserve(el));
     };
-  }, [filteredProjects]); // 👈 depend on filteredProjects to re-attach animation
+  }, [filteredProjects]); 
 
   return (
     <section id="projects" className="pt-20 lg:pt-44 flex flex-col items-center">
